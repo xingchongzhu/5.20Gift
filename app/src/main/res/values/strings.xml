@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5.20</string>
+    <string name="gift_turntable">大转盘</string>
+    <string name="chance_time">你还有%1$1d次抽奖机会</string>
+    <string name="gifts">你已抽到如下奖品:</string>
+    <string name="gifts_empty">无抽奖记录</string>
+    <string name="gifts_finash">抽奖结束,请等待下一个节日</string>
+    <string name="title">%1$1d.</string>
+</resources>

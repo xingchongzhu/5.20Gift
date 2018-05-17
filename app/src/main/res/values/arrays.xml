@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>女包</item>
+        <item>榴莲</item>
+        <item>美食</item>
+        <item>旅游</item>
+        <item>首饰</item>
+        <item>娃娃</item>
+        <item>鲜花</item>
+        <item>免家务</item>
+
+    </string-array>
+
+    <string-array name="icons">
+        <item>bag</item>
+        <item>durian</item>
+        <item>food</item>
+        <item>tourism</item>
+        <item>glod</item>
+        <item>wawa</item>
+        <item>flower</item>
+        <item>work</item>
+
+    </string-array>
+
+    <string-array name="describe">
+        <item>时尚精美女包，你的不二选择。</item>
+        <item>8斤重金枕榴莲，让你一次吃个够。</item>
+        <item>浪漫法式牛排，牛肉是真的。</item>
+        <item>完美旅游，我要带你去荷兰小镇。</item>
+        <item>99999999%足金项链，价格贼贵。</item>
+        <item>爱心大狗熊，当个小孩养。</item>
+        <item>6种不同鲜花搭配，哇好大一束花。</item>
+        <item>收下务工一枚，为你处理一切家务（陪逛街，陪吃饭，陪。。。一周）。</item>
+
+    </string-array>
+
+
+</resources>
